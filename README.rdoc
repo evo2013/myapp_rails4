@@ -1,0 +1,16 @@
+== README
+
+Basic Rails 4 application containing:
+
+
+* User model
+
+* 1:M Post model
+
+* M:M Group model
+
+* Ruby 2.2.0
+
+* Rails 4.2.1
+
+
